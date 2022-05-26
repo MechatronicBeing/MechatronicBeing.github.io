@@ -1,7 +1,7 @@
 # The Mechatronic Being
 
 ## Repositories
-Names / Websites | Repositories
+Names (Websites) | Repositories
 --- | ---
 [**Home**](https://mechatronicbeing.github.io/) | https://github.com/MechatronicBeing/MechatronicBeing.github.io 
 **Documentation** | https://github.com/MechatronicBeing/Documentation 
@@ -37,4 +37,4 @@ Names / Websites | Repositories
 - Other content, data and media : Public Domain **OR** Creative Commons CC0 Public Domain Dedication **(see specific files)**
 
 ## Contact
-NO social media. Use the email address to contact the author.
+**NO** social media. You can use the "Discussions" tab in this repository, or my email address, to contact me.

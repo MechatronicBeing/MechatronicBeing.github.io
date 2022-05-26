@@ -19,8 +19,8 @@ Names / Websites | Repositories
     - can work (or be *reworked*) with any programming language, albeit some benefits and drawbacks
     - can exploit all the resources given : CPU, GPU, RAM, Hard Drive, others computers, others software...
     - try to learn to use the resources intelligently (execution time, quality and quantity of resources are evaluated)
-  - Less "hard" programming and mathematics for the intelligence : self-development (as genetic and generic)
-  - Less artificial and complex to build, more concrete, complete, versatile, natural and lifely
+  - Less "hard" programming and mathematics for the intelligence : do self-develop (as genetic and generic)
+  - Less artificial and complex to build, more concrete, complete, versatile and natural
 - Access to Documentation, Programs, Resources, and more...
 - Accessible for all, free of charge and without restrictions, **forever !**
 

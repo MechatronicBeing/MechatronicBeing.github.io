@@ -1,21 +1,24 @@
 # The Mechatronic Being
 
 ## Repositories
-- **Documentation** : [Repo](https://github.com/MechatronicBeing/Documentation) Website
+- **Home** : [Repository](https://github.com/MechatronicBeing/MechatronicBeing.github.io) [Website](https://mechatronicbeing.github.io/)
+- **Documentation** : [Repository](https://github.com/MechatronicBeing/Documentation) Website
 - **Programs** : 
-  - **Experiments** : [Repo](https://github.com/MechatronicBeing/Experiments)
-  - **Mind (main software)** : [Repo](https://github.com/MechatronicBeing/Mind)
-- **Resources** : [Repo](https://github.com/MechatronicBeing/Resources) Website
+  - **Experiments** : [Repository](https://github.com/MechatronicBeing/Experiments)
+  - **Mind (main software)** : [Repository](https://github.com/MechatronicBeing/Mind)
+- **Resources** : [Repository](https://github.com/MechatronicBeing/Resources) Website
 
 ## Features
-- Understand, study, design, manufacture, maintain, work and live with Mechatronic Beings.
+- Understand, study, design, manufacture, maintain, work and live with **Mechatronic Beings**
 - State-of-art human-like bots, machines and robots. 
-- "All-in-One for All" approach : less complex to build, more complete and versatile.
-  - New types of approaches : less artificial, more concrete, natural and lifely.
+- "All-in-One for All" approach
+  - No specific field of research (vision, natural language, speech recognition, learning, planning, expert systems...)
+  - No specific programming language or material needed
+    - it **can** work (or be **reworked**) on any computer with a programming language -albeit some benefits and drawbacks- 
   - Less "hard" programming and mathematics for the intelligence : it will self-develop (as genetic and generic)
-  - No "specific" programming language or material (like GPU) needed : it **can** work (or be **reworked**) on any computer with programming language -albeit some benefits and drawbacks- 
-- Access to Documentation, Programs, Resources...
-- Accessible for all, free of charge and without restrictions (and forever !).
+  - Less artificial and complex to build, more concrete, complete, versatile, natural and lifely
+- Access to Documentation, Programs, Resources, and more...
+- Accessible for all, free of charge and without restrictions, **forever !**
 
 ## Warnings
 - Work in progress (made by ONE person, very much to do).

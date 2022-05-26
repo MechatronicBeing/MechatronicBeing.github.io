@@ -1,12 +1,13 @@
 # The Mechatronic Being
 
 ## Repositories
-- **Home** : [Repository](https://github.com/MechatronicBeing/MechatronicBeing.github.io) [Website](https://mechatronicbeing.github.io/)
-- **Documentation** : [Repository](https://github.com/MechatronicBeing/Documentation) Website
-- **Programs** : 
-  - **Experiments** : [Repository](https://github.com/MechatronicBeing/Experiments)
-  - **Mind (main software)** : [Repository](https://github.com/MechatronicBeing/Mind)
-- **Resources** : [Repository](https://github.com/MechatronicBeing/Resources) Website
+Names | Repositories | Websites
+--- | --- | ---
+**Home** | https://github.com/MechatronicBeing/MechatronicBeing.github.io | https://mechatronicbeing.github.io/
+**Documentation** | https://github.com/MechatronicBeing/Documentation | Website
+**Experiments (tests programs)** | https://github.com/MechatronicBeing/Experiments | -
+**Mind (main software)** | https://github.com/MechatronicBeing/Mind | -
+**Resources** | https://github.com/MechatronicBeing/Resources | Website
 
 ## Features
 - Understand, study, design, manufacture, maintain, work and live with **Mechatronic Beings**
@@ -17,7 +18,7 @@
     - can work on any computer, albeit some benefits and drawbacks
     - can work (or be *reworked*) with any programming language, albeit some benefits and drawbacks
     - can exploit all the resources given : CPU, GPU, RAM, Hard Drive, others computers, others software...
-    - try to learn the best way to use the resources intelligently
+    - try to learn to use the resources intelligently (execution time, quality and quantity of resources are evaluated)
   - Less "hard" programming and mathematics for the intelligence : self-development (as genetic and generic)
   - Less artificial and complex to build, more concrete, complete, versatile, natural and lifely
 - Access to Documentation, Programs, Resources, and more...

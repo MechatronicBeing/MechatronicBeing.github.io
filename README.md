@@ -1,8 +1,8 @@
 # The Mechatronic Being
 
 ## Repositories
-Names | Repositories
---- | --- | ---
+Names / Websites | Repositories
+--- | ---
 [**Home**](https://mechatronicbeing.github.io/) | https://github.com/MechatronicBeing/MechatronicBeing.github.io 
 **Documentation** | https://github.com/MechatronicBeing/Documentation 
 **Experiments (tests programs)** | https://github.com/MechatronicBeing/Experiments

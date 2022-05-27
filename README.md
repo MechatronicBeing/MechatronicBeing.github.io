@@ -14,6 +14,7 @@
   - virtual : computer programs (or "bots")
   - animal/human-like body/mind
 - State-of-art technology and research
+- Many fields of research : "natural" intelligence, natural language, vision and speech recognitions, learning and planning, expert systems...
 - Many fields of activity : medical, industrial, educational, social, etc.
 
 ## Features
@@ -24,14 +25,13 @@
     - work with any programming language (with some benefits and drawbacks*)
     - use internal/external resources (CPU, GPU, Memories, programs, media, networks...), private/public, from start or added later
     - try to use the resources intelligently
-  - No specific field of research : vision and speech recognitions, natural language, learning and planning, expert systems...
   - Less "hard-coded" program and less mathematics : the intelligence will self-develop (with genetic and generic behaviors)
-  - Less artificial and less complex to build ; more concrete, complete, versatile and natural
+  - Less artificial ; simple building ; more concrete, complete, versatile and natural
 - Access to Documentation, Programs, Resources, and more...
 - Accessible for all, free of charge and without restrictions, **forever !**
 
 ## Warnings
-- **Work in progress** (made by ONE person, very much to do)
+- **Work in progress** (made by one person, very much to do)
 - Like in real life, a Mechatronic Being :
   - requires a LOT of time, patience and activities like learning, evaluation, training, working, etc.
   - depends a LOT on the materials and software used (the "body" and "mind")
@@ -39,11 +39,11 @@
   - can be a real "success", a real "failure" or "something unexpected", for an intended task (professional, industrial or autonomous)
 
 ## Licenses
-- Main content from the author : Creative Commons CC0 Public Domain Dedication **(unless otherwise stated)**
+- Main content : Creative Commons CC0 Public Domain Dedication **(unless otherwise stated)**
 - Other content, data and media : Public Domain **OR** Creative Commons CC0 Public Domain Dedication **(see specific files/notes)**
 
 ## Contacts
-- Public : use the "Discussions" tab, according to the repository
+- Public : use the "Discussions" tab, according to the repository and the subject
   - Note : a github account is needed
 - Private : send an email to ---
-- Social media : **no**
+- Social media : **no.**

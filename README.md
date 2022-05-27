@@ -1,6 +1,6 @@
 # The Mechatronic Being
 
-## Repositories
+## Direct Access
 Websites | Repositories
 --- | ---
 [**Home**](https://mechatronicbeing.github.io/) | https://github.com/MechatronicBeing/MechatronicBeing.github.io 
@@ -11,7 +11,7 @@ Websites | Repositories
 
 ## Features
 - Understand, study, design, manufacture, maintain, work and live with **Mechatronic Beings**
-- State-of-art human-like bots, machines and robots
+- State-of-art animal/human-like bots, machines and robots
 - "All-in-One for All" approach
   - No specific field of research : vision and speech recognition, natural language, learning and planning, expert systems...
   - No specific programming language or material needed, the mind software :

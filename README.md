@@ -2,7 +2,7 @@
 
 ## Quick access
 - **Home** : [Pages](https://mechatronicbeing.github.io/), [Repository](https://github.com/MechatronicBeing/MechatronicBeing.github.io), [Discussions](https://github.com/MechatronicBeing/MechatronicBeing.github.io/discussions)
-- **Documentation : [Pages](https://mechatronicbeing.github.io/Documentation/), [Repository](https://github.com/MechatronicBeing/Documentation), [Discussions](https://github.com/MechatronicBeing/Documentation/discussions)
+- **Documentation** : [Pages](https://mechatronicbeing.github.io/Documentation/), [Repository](https://github.com/MechatronicBeing/Documentation), [Discussions](https://github.com/MechatronicBeing/Documentation/discussions)
 - **Programs** :
   - **Experiments (testing)** : [Repository](https://github.com/MechatronicBeing/Experiments)
   - **Mind (main)** : [Repository](https://github.com/MechatronicBeing/Mind)

@@ -15,9 +15,9 @@
   - No specific programming language or material needed, the "mind" software :
     - can work on any computer, *with some benefits and drawbacks*
     - can work with any programming language, *with some benefits and drawbacks*
-    - can use internal/external resources given : CPU, GPU, Memories, software, networks...
-    - will try to use the resources intelligently (time, quality and quantity of resources are evaluated, to improve or reduce behaviors)
-  - Less "hard" programming and less mathematics : the intelligence will self-develop (as genetic and generic)
+    - can use resources (CPU, GPU, Memories, programs, media, networks...), internal or external, private or public, already given or added later
+    - will try to use the resources intelligently
+  - Less "hard-coded" program and less mathematics : the intelligence will self-develop (with genetic and generic behaviors)
   - Less artificial and less complex to build ; more concrete, complete, versatile and natural
 - Access to Documentation, Programs, Resources, and more...
 - Accessible for all, free of charge and without restrictions, **forever !**
@@ -25,8 +25,8 @@
 ## Warnings
 - **Work in progress** (made by ONE person, very much to do)
 - Like in real life, a Mechatronic Being :
-  - requires a LOT of time, patience and activities like learning, evaluation, training, working...
-  - depends a LOT on the "body" materials and the "mind" software used
+  - requires a LOT of time, patience and activities like learning, evaluation, training, working, etc..
+  - depends a LOT on the "body" materials and the "mind" software used, 
   - depends a LOT on external stimuli : educational, social, professional, medical/technical, cultural...
   - can be a real "success", a real "failure", or "something unexpected", for an intended task (professional, industrial or autonomous)
 

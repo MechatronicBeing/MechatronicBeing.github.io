@@ -1,11 +1,11 @@
 # The Mechatronic Being
 
 ## Direct Access
-* [**Home**](https://mechatronicbeing.github.io/) : https://github.com/MechatronicBeing/MechatronicBeing.github.io 
-* [**Documentation**](https://mechatronicbeing.github.io/Documentation/) : https://github.com/MechatronicBeing/Documentation 
-* **Experiments (testing programs)** : https://github.com/MechatronicBeing/Experiments
-* **Mind (main software)** : https://github.com/MechatronicBeing/Mind
-* [**Resources**](https://mechatronicbeing.github.io/Resources/) : https://github.com/MechatronicBeing/Resources
+- [**Home**](https://mechatronicbeing.github.io/) : https://github.com/MechatronicBeing/MechatronicBeing.github.io 
+- [**Documentation**](https://mechatronicbeing.github.io/Documentation/) : https://github.com/MechatronicBeing/Documentation 
+- **Experiments (testing programs)** : https://github.com/MechatronicBeing/Experiments
+- **Mind (main software)** : https://github.com/MechatronicBeing/Mind
+- [**Resources**](https://mechatronicbeing.github.io/Resources/) : https://github.com/MechatronicBeing/Resources
 
 ## Features
 - Understand, study, design, manufacture, maintain, work and live with **Mechatronic Beings**

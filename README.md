@@ -1,7 +1,7 @@
 # The Mechatronic Being
 
 ## Direct Access
-Websites | Repositories
+Pages | Repositories
 --- | ---
 [**Home**](https://mechatronicbeing.github.io/) | https://github.com/MechatronicBeing/MechatronicBeing.github.io 
 [**Documentation**](https://mechatronicbeing.github.io/Documentation/) | https://github.com/MechatronicBeing/Documentation 

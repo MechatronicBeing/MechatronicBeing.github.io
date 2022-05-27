@@ -1,7 +1,7 @@
 # The Mechatronic Being
 
 ## Repositories
-Names (Websites) | Repositories
+Websites | Repositories
 --- | ---
 [**Home**](https://mechatronicbeing.github.io/) | https://github.com/MechatronicBeing/MechatronicBeing.github.io 
 **Documentation** | https://github.com/MechatronicBeing/Documentation 
@@ -13,28 +13,28 @@ Names (Websites) | Repositories
 - Understand, study, design, manufacture, maintain, work and live with **Mechatronic Beings**
 - State-of-art human-like bots, machines and robots
 - "All-in-One for All" approach
-  - No specific field of research (vision, natural language, speech recognition, learning, planning, expert systems...)
+  - No specific field of research : vision and speech recognition, natural language, learning and planning, expert systems...
   - No specific programming language or material needed, the mind software :
-    - can work on any computer, albeit some benefits and drawbacks
-    - can work (or be *reworked*) with any programming language, albeit some benefits and drawbacks
-    - can exploit all the resources given : CPU, GPU, RAM, Hard Drive, others computers, others software...
-    - try to learn to use the resources intelligently (execution time, quality and quantity of resources are evaluated)
+    - can work on any computer, *albeit some benefits and drawbacks*
+    - can work with any programming language, *albeit some benefits and drawbacks*
+    - can use internal/external resources given : CPU, GPU, Memories, software, networks...
+    - try to learn to use the resources intelligently : execution time, quality and quantity of resources are evaluated
   - Less "hard" programming and mathematics for the intelligence : do self-develop (as genetic and generic)
   - Less artificial and complex to build, more concrete, complete, versatile and natural
 - Access to Documentation, Programs, Resources, and more...
 - Accessible for all, free of charge and without restrictions, **forever !**
 
 ## Warnings
-- **Work in progress** (made by ONE person, very much to do).
+- **Work in progress** (made by ONE person, very much to do)
 - Like in real life, a Mechatronic Being :
-  - requires a LOT of time and patience, in activities like learning, evaluation, training, working...
-  - depends on the "body" materials and "mind" software used
-  - depends a LOT on external stimuli : educational, social, professional, medical/technical...
+  - requires a LOT of time, patience, and activities like learning, evaluation, training, working...
+  - depends a LOT on the "body" materials and "mind" software used
+  - depends a LOT on external stimuli : educational, social, professional, medical/technical, cultural...
   - can be a real "success", a real "failure", or "something unexpected", for an intended task (professional, industrial or autonomous)
 
 ## Licenses
-- Main content from the author : Creative Commons CC0 Public Domain Dedication **(unless stated otherwise)**
-- Other content, data and media : Public Domain **OR** Creative Commons CC0 Public Domain Dedication **(see specific files)**
+- Main content from the author : Creative Commons CC0 Public Domain Dedication **(unless otherwise stated)**
+- Other content, data and media : Public Domain **OR** Creative Commons CC0 Public Domain Dedication **(see specific files/notes)**
 
 ## Contact
-**NO** social media. You can use the "Discussions" tab in this repository, or my email address, to contact me.
+You can use the "Discussions" tab in this repository, or my email address, to contact me. **NO** social media. 

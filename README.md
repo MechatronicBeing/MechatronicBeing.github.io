@@ -13,8 +13,8 @@
 - "All-in-One for All" approach
   - No specific field of research : vision and speech recognition, natural language, learning and planning, expert systems...
   - No specific programming language or material needed, the "mind" software :
-    - can work on any computer, *albeit some benefits and drawbacks*
-    - can work with any programming language, *albeit some benefits and drawbacks*
+    - can work on any computer, *with some benefits and drawbacks*
+    - can work with any programming language, *with some benefits and drawbacks*
     - can use internal/external resources given : CPU, GPU, Memories, software, networks...
     - will try to use the resources intelligently (time, quality and quantity of resources are evaluated, to improve or reduce behaviors)
   - Less "hard" programming and less mathematics : the intelligence will self-develop (as genetic and generic)

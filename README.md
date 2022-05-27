@@ -25,8 +25,8 @@
 ## Warnings
 - **Work in progress** (made by ONE person, very much to do)
 - Like in real life, a Mechatronic Being :
-  - requires a LOT of time, patience, and activities like learning, evaluation, training, working...
-  - depends a LOT on the "body" materials and "mind" software used
+  - requires a LOT of time, patience and activities like learning, evaluation, training, working...
+  - depends a LOT on the "body" materials and the "mind" software used
   - depends a LOT on external stimuli : educational, social, professional, medical/technical, cultural...
   - can be a real "success", a real "failure", or "something unexpected", for an intended task (professional, industrial or autonomous)
 

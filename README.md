@@ -1,26 +1,24 @@
 # The Mechatronic Being
 
 ## Direct Access
-Pages | Repositories
---- | ---
-[**Home**](https://mechatronicbeing.github.io/) | https://github.com/MechatronicBeing/MechatronicBeing.github.io 
-[**Documentation**](https://mechatronicbeing.github.io/Documentation/) | https://github.com/MechatronicBeing/Documentation 
-**Experiments (tests programs)** | https://github.com/MechatronicBeing/Experiments
-**Mind (main software)** | https://github.com/MechatronicBeing/Mind
-[**Resources**](https://mechatronicbeing.github.io/Resources/) | https://github.com/MechatronicBeing/Resources
+* [**Home**](https://mechatronicbeing.github.io/) : https://github.com/MechatronicBeing/MechatronicBeing.github.io 
+* [**Documentation**](https://mechatronicbeing.github.io/Documentation/) : https://github.com/MechatronicBeing/Documentation 
+* **Experiments (testing programs)** : https://github.com/MechatronicBeing/Experiments
+* **Mind (main software)** : https://github.com/MechatronicBeing/Mind
+* [**Resources**](https://mechatronicbeing.github.io/Resources/) : https://github.com/MechatronicBeing/Resources
 
 ## Features
 - Understand, study, design, manufacture, maintain, work and live with **Mechatronic Beings**
-- State-of-art animal/human-like bots, machines and robots
+- State-of-art animal/human-like virtual bots, industrial machines, drones and robots
 - "All-in-One for All" approach
   - No specific field of research : vision and speech recognition, natural language, learning and planning, expert systems...
-  - No specific programming language or material needed, the mind software :
+  - No specific programming language or material needed, the "mind" software :
     - can work on any computer, *albeit some benefits and drawbacks*
     - can work with any programming language, *albeit some benefits and drawbacks*
     - can use internal/external resources given : CPU, GPU, Memories, software, networks...
-    - try to learn to use the resources intelligently : execution time, quality and quantity of resources are evaluated
-  - Less "hard" programming and mathematics for the intelligence : do self-develop (as genetic and generic)
-  - Less artificial and complex to build, more concrete, complete, versatile and natural
+    - will try to use the resources intelligently (time, quality and quantity of resources are evaluated, to improve or reduce behaviors)
+  - Less "hard" programming and less mathematics : the intelligence will self-develop (as genetic and generic)
+  - Less artificial and less complex to build ; more concrete, complete, versatile and natural
 - Access to Documentation, Programs, Resources, and more...
 - Accessible for all, free of charge and without restrictions, **forever !**
 

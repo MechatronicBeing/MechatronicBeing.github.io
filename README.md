@@ -36,14 +36,14 @@
   - requires a LOT of time, patience and activities like learning, evaluation, training, working, etc.
   - depends a LOT on the materials and software used (the "body" and "mind")
   - depends a LOT on external stimuli : educational, professional, medical/technical, contacts, cultural...
-  - can be a real "success", a real "failure" or "something unexpected", for an intended task (professional, industrial or autonomous)
+  - can be a real "success", a real "failure" or "something unexpected", for an intended task (professional, industrial or autonomous) 
 
 ## Licenses
-- Main content : Creative Commons CC0 Public Domain Dedication **(unless otherwise stated)**
-- Other content, data and media : Public Domain **OR** Creative Commons CC0 Public Domain Dedication **(see specific files/notes)**
+- Main content : [Creative Commons CC0 Public Domain Dedication](LICENSE) **(unless otherwise stated)**
+- Other content, data and media : Public Domain **OR** [Creative Commons CC0 Public Domain Dedication](LICENSE) **(see specific files/notes)**
 
 ## Contacts
-- Public : use the "Discussions" tab, according to the repository and the subject
+- Public : use the "Discussions" pages 
   - Note : a github account is needed
 - Private : send an email to ---
 - Social media : **no.**

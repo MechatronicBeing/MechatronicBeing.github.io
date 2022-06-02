@@ -18,7 +18,7 @@ New "pull request" are subject to verification (license, format...)
   - separate or derivative work
   - copyrighted or non-copyrighted work
   - commercial or non-commercial work
-  - no contact or citation obligation
+  - unmandatory contact or citation from the author(s)
 
 ## Type of files
 - smallest as possible

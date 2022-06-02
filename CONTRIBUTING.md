@@ -20,11 +20,11 @@ New "pull request" are subject to verification (license, format...)
   - commercial or non-commercial work
   - no contact or citation obligation
 
-## Type of file
-- Files need to be smallest as possible
+## Type of files
+- smallest as possible
   - faster download
   - more files added
-- Files need to be easy openable and editable
+- easy openable and editable
   - with the most basic pre-installed software
     - a simple text editor
     - a basic image editor

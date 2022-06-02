@@ -1,1 +1,8 @@
-theme: jekyll-theme-slate
+url: https://MechatronicBeing.github.io
+name: MechatronicBeing.github.io
+title : "MechatronicBeing.github.io"
+tagline: "the MechatronicBeing Homepage"
+description : "Study, understand, design, manufacture, work, maintain and live with Mechatronic Beings."
+author : MechatronicBeing
+plugins:
+- jekyll-seo-tag

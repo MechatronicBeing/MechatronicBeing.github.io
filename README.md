@@ -1,5 +1,5 @@
 Study, understand, design, manufacture, work, maintain and live with Mechatronic Beings.  
-Includes free "public-domain"-like licensed resources.
+Includes free "public domain"-like licensed resources.
 
 ## Quick access
 - **Homepage** : [Pages](https://mechatronicbeing.github.io/), [Repository](https://github.com/MechatronicBeing/MechatronicBeing.github.io/), [Issues](https://github.com/MechatronicBeing/MechatronicBeing.github.io/issues/), [Discussions](https://github.com/MechatronicBeing/MechatronicBeing.github.io/discussions/)
@@ -57,10 +57,13 @@ Includes free "public-domain"-like licensed resources.
 
 ## Licenses
 - **Main content** : [Creative Commons CC0 Public Domain Dedication](LICENSE) *(unless otherwise stated)*
-- **Other content, data and media** : public-domain-like licenses
-  - Public Domain 
-  - **OR** [Creative Commons CC0 Public Domain Dedication](LICENSE)
-  - **OR** The Unlicense
+- **Other content, data and media** use "public domain"-like licenses, among :
+  - a Public Domain dedication 
+  - the [Creative Commons CC0 Public Domain Dedication](LICENSE)
+  - the Unlicense
+  - the BSD Zero Clause License
+  - the MIT No Attribution
+  - the WTFPL
   - *see LICENSE file/mention, for each work*
 - **Uses** : 
   - for any purpose
@@ -69,7 +72,7 @@ Includes free "public-domain"-like licensed resources.
   - commercial or non-commercial work
   - no warranties provided, of any kind, express or implied
   - citations appreciated, but not required
-  - any trademarks belong to their respective owners (and must be treated accordingly, in any derivative work)
+  - in many cases, any trademarks and patents belong to their respective owners (and must be treated accordingly, in any derivative work)
   - verify LICENSE files/mentions, accordingly to each work, in case of -rare- exceptions
 
 ## Contacts

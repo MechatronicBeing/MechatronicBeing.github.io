@@ -1,24 +1,26 @@
-Study, understand, design, manufacture, work, maintain and live with Mechatronic Beings.  
+Study, understand, design, build, develop, work, repair and live with Mechatronic Beings.  
 Includes free "public domain"-like licensed resources.
 
 ## Quick access
-- **Homepage** : [Pages](https://mechatronicbeing.github.io/), [Repository](https://github.com/MechatronicBeing/MechatronicBeing.github.io/), [Issues](https://github.com/MechatronicBeing/MechatronicBeing.github.io/issues/), [Discussions](https://github.com/MechatronicBeing/MechatronicBeing.github.io/discussions/)
-- **Documentation** : [Pages](https://mechatronicbeing.github.io/documentation/), [Repository](https://github.com/MechatronicBeing/documentation/), [Discussions](https://github.com/MechatronicBeing/documentation/discussions/)
+- **Homepage** : [Pages](https://mechatronicbeing.github.io/), [Files](https://github.com/MechatronicBeing/MechatronicBeing.github.io/), [Issues](https://github.com/MechatronicBeing/MechatronicBeing.github.io/issues/), [Files](https://github.com/MechatronicBeing/MechatronicBeing.github.io/discussions/)
+- **Documentation** : [Pages](https://mechatronicbeing.github.io/documentation/), [Files](https://github.com/MechatronicBeing/documentation/), [Discussions](https://github.com/MechatronicBeing/documentation/discussions/)
 - **Programs** :
-  - **Demonstration** : [Repository](https://github.com/MechatronicBeing/programs-demos/)
-  - **Main** : [Repository](https://github.com/MechatronicBeing/programs-main/)
-- **Resources** : [Pages](https://mechatronicbeing.github.io/resources/), [Repository](https://github.com/MechatronicBeing/resources/), [Discussions](https://github.com/MechatronicBeing/resources/discussions/)
+  - **Demonstration** : [Files](https://github.com/MechatronicBeing/programs-demos/)
+  - **Main** : [Files](https://github.com/MechatronicBeing/programs-main/)
+- **Resources** : [Pages](https://mechatronicbeing.github.io/resources/), [Files](https://github.com/MechatronicBeing/resources/), [Discussions](https://github.com/MechatronicBeing/resources/discussions/)
 
 ## What is a "Mechatronic Being" ?
 - **Mechatronics** = Mechanics + Electronics + Computer Software + Control systems
+  - subdomain : robotics
   - examples : robots, industrial machines
-- **Being** = alive, animated, high intellect, awareness, autonomous, individual, organism, 
-  - examples : humans, animals, alive brains
-  - counterexamples : inert and brainless objects
-    - parts of an organism (limbs, torso...)
+- **Being** = alive, animated, high intellect, awareness, autonomous, individual, organism
+  - examples : humans, animals, alive brains...
+  - counterexamples : inert or "brainless" objects
     - materials (wooden, metal, water, gas...)
-- Mechatronic Being : 
-  - counterparts : Biological (Mechatronic) Beings (humans, animals...)
+    - parts of an organism (limbs, torso...)
+- Mechatronic Being : machine with a s
+  - an artificial copy of beings
+  - counterparts : Biological Beings (humans, animals...)
 
 ## Benefits
 - Personals : cook, take care, shop, clean, wash, entertain, help, save time and money...
@@ -30,8 +32,8 @@ Includes free "public domain"-like licensed resources.
 
 ## How to start ?
 1. [read the documentation](https://mechatronicbeing.github.io/documentation/)
-2. [try the demos](https://github.com/MechatronicBeing/programs-demos)
-3. [start your own](https://github.com/MechatronicBeing/programs-main)
+2. [try the demos](https://github.com/MechatronicBeing/programs-demos/)
+3. [build your own](https://github.com/MechatronicBeing/programs-main/)
 4. [get the resources](https://mechatronicbeing.github.io/resources/)
 
 ## Features
@@ -82,5 +84,5 @@ Includes free "public domain"-like licensed resources.
 - **Public issues** : use the "[Issues](https://github.com/MechatronicBeing/MechatronicBeing.github.io/issues)"
   - for bugs or errors, new features or requests, helps wanted, questions (but not public conversations)
   - a github account is needed
-- **Private message** : MechatronicBeing![](https://raw.githubusercontent.com/MechatronicBeing/resources-writing/main/images/symbols/sign/atsign.png)![](https://raw.githubusercontent.com/MechatronicBeing/resources-writing/main/images/symbols/bf/g.png)![](https://raw.githubusercontent.com/MechatronicBeing/resources-writing/main/images/symbols/bf/m.png)![](https://raw.githubusercontent.com/MechatronicBeing/resources-writing/main/images/symbols/bf/a.png)![](https://raw.githubusercontent.com/MechatronicBeing/resources-writing/main/images/symbols/bf/i.png)![](https://raw.githubusercontent.com/MechatronicBeing/resources-writing/main/images/symbols/bf/l.png)![](https://raw.githubusercontent.com/MechatronicBeing/resources-writing/main/images/symbols/sign/centerdot.png)![](https://raw.githubusercontent.com/MechatronicBeing/resources-writing/main/images/symbols/bf/c.png)![](https://raw.githubusercontent.com/MechatronicBeing/resources-writing/main/images/symbols/bf/o.png)![](https://raw.githubusercontent.com/MechatronicBeing/resources-writing/main/images/symbols/bf/m.png)
+- **Private message** : MechatronicBeing![](https://raw.githubusercontent.com/MechatronicBeing/MechatronicBeing.github.io/main/images/symbols/other/atsign.png)![](https://raw.githubusercontent.com/MechatronicBeing/MechatronicBeing.github.io/main/images/symbols/bf/g.png)![](https://raw.githubusercontent.com/MechatronicBeing/MechatronicBeing.github.io/main/images/symbols/bf/m.png)![](https://raw.githubusercontent.com/MechatronicBeing/MechatronicBeing.github.io/main/images/symbols/bf/a.png)![](https://raw.githubusercontent.com/MechatronicBeing/MechatronicBeing.github.io/main/images/symbols/bf/i.png)![](https://raw.githubusercontent.com/MechatronicBeing/MechatronicBeing.github.io/main/images/symbols/bf/l.png)![](https://raw.githubusercontent.com/MechatronicBeing/MechatronicBeing.github.io/main/images/symbols/other/centerdot.png)![](https://raw.githubusercontent.com/MechatronicBeing/MechatronicBeing.github.io/main/images/symbols/bf/c.png)![](https://raw.githubusercontent.com/MechatronicBeing/MechatronicBeing.github.io/main/images/symbols/bf/o.png)![](https://raw.githubusercontent.com/MechatronicBeing/MechatronicBeing.github.io/main/images/symbols/bf/m.png)
 - **Social media** : no. 

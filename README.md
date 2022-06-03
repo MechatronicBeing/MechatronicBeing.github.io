@@ -1,12 +1,12 @@
 Study, understand, design, manufacture, work, maintain and live with Mechatronic Beings.  
-Includes free "public-domain"-like licensed resources.
+Includes free "public domain"-like licensed resources.
 
 ## Quick access
 - **Homepage** : [Pages](https://mechatronicbeing.github.io/), [Repository](https://github.com/MechatronicBeing/MechatronicBeing.github.io/), [Issues](https://github.com/MechatronicBeing/MechatronicBeing.github.io/issues/), [Discussions](https://github.com/MechatronicBeing/MechatronicBeing.github.io/discussions/)
 - **Documentation** : [Pages](https://mechatronicbeing.github.io/documentation/), [Repository](https://github.com/MechatronicBeing/documentation/), [Discussions](https://github.com/MechatronicBeing/documentation/discussions/)
 - **Programs** :
-  - **Experiments** : [Repository](https://github.com/MechatronicBeing/Programs-Experiments/)
-  - **Main** : [Repository](https://github.com/MechatronicBeing/Programs-Main/)
+  - **Demonstration** : [Repository](https://github.com/MechatronicBeing/programs-demos/)
+  - **Main** : [Repository](https://github.com/MechatronicBeing/programs-main/)
 - **Resources** : [Pages](https://mechatronicbeing.github.io/resources/), [Repository](https://github.com/MechatronicBeing/resources/), [Discussions](https://github.com/MechatronicBeing/resources/discussions/)
 
 ## What is a "Mechatronic Being" ?
@@ -30,8 +30,8 @@ Includes free "public-domain"-like licensed resources.
 
 ## How to start ?
 1. [read the documentation](https://mechatronicbeing.github.io/documentation/)
-2. [try the testing programs](https://github.com/MechatronicBeing/Experiments)
-3. [start your own](https://github.com/MechatronicBeing/Mind)
+2. [try the demos](https://github.com/MechatronicBeing/programs-demos)
+3. [start your own](https://github.com/MechatronicBeing/programs-main)
 4. [get the resources](https://mechatronicbeing.github.io/resources/)
 
 ## Features
@@ -57,10 +57,13 @@ Includes free "public-domain"-like licensed resources.
 
 ## Licenses
 - **Main content** : [Creative Commons CC0 Public Domain Dedication](LICENSE) *(unless otherwise stated)*
-- **Other content, data and media** : public-domain-like licenses
-  - Public Domain 
-  - **OR** [Creative Commons CC0 Public Domain Dedication](LICENSE)
-  - **OR** The Unlicense
+- **Other content, data and media** use "public domain"-like licenses, among :
+  - a Public Domain dedication 
+  - the [Creative Commons CC0 Public Domain Dedication](LICENSE)
+  - the Unlicense
+  - the BSD Zero Clause License
+  - the MIT No Attribution
+  - the WTFPL
   - *see LICENSE file/mention, for each work*
 - **Uses** : 
   - for any purpose
@@ -69,7 +72,7 @@ Includes free "public-domain"-like licensed resources.
   - commercial or non-commercial work
   - no warranties provided, of any kind, express or implied
   - citations appreciated, but not required
-  - any trademarks belong to their respective owners (and must be treated accordingly, in any derivative work)
+  - in many cases, any trademarks and patents belong to their respective owners (and must be treated accordingly, in any derivative work)
   - verify LICENSE files/mentions, accordingly to each work, in case of -rare- exceptions
 
 ## Contacts
@@ -79,5 +82,5 @@ Includes free "public-domain"-like licensed resources.
 - **Public issues** : use the "[Issues](https://github.com/MechatronicBeing/MechatronicBeing.github.io/issues)"
   - for bugs or errors, new features or requests, helps wanted, questions (but not public conversations)
   - a github account is needed
-- **Private message** : MechatronicBeing![](resources/images/symbols/sign/atsign.png)![](resources/images/symbols/bf/g.png)![](resources/images/symbols/bf/m.png)![](resources/images/symbols/bf/a.png)![](resources/images/symbols/bf/i.png)![](resources/images/symbols/bf/l.png)![](resources/images/symbols/sign/centerdot.png)![](resources/images/symbols/bf/c.png)![](resources/images/symbols/bf/o.png)![](resources/images/symbols/bf/m.png)
+- **Private message** : MechatronicBeing![](https://raw.githubusercontent.com/MechatronicBeing/resources-writing/main/images/symbols/sign/atsign.png)![](https://raw.githubusercontent.com/MechatronicBeing/resources-writing/main/images/symbols/bf/g.png)![](https://raw.githubusercontent.com/MechatronicBeing/resources-writing/main/images/symbols/bf/m.png)![](https://raw.githubusercontent.com/MechatronicBeing/resources-writing/main/images/symbols/bf/a.png)![](https://raw.githubusercontent.com/MechatronicBeing/resources-writing/main/images/symbols/bf/i.png)![](https://raw.githubusercontent.com/MechatronicBeing/resources-writing/main/images/symbols/bf/l.png)![](https://raw.githubusercontent.com/MechatronicBeing/resources-writing/main/images/symbols/sign/centerdot.png)![](https://raw.githubusercontent.com/MechatronicBeing/resources-writing/main/images/symbols/bf/c.png)![](https://raw.githubusercontent.com/MechatronicBeing/resources-writing/main/images/symbols/bf/o.png)![](https://raw.githubusercontent.com/MechatronicBeing/resources-writing/main/images/symbols/bf/m.png)
 - **Social media** : no. 

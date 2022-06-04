@@ -3,7 +3,7 @@ Includes free "public domain"-like licensed resources.
 
 ## Quick access
 - **Homepage** : [Pages](https://mechatronicbeing.github.io/), [Files](https://github.com/MechatronicBeing/MechatronicBeing.github.io/), [Issues](https://github.com/MechatronicBeing/MechatronicBeing.github.io/issues/), [Files](https://github.com/MechatronicBeing/MechatronicBeing.github.io/discussions/)
-- **Documentation** : [Pages](https://mechatronicbeing.github.io/documentation/), [Files](https://github.com/MechatronicBeing/documentation/), [Discussions](https://github.com/MechatronicBeing/documentation/discussions/)
+- **Documentation** : [Pages](https://mechatronicbeing.github.io/docs/), [Files](https://github.com/MechatronicBeing/docs/), [Discussions](https://github.com/MechatronicBeing/docs/discussions/)
 - **Programs** :
   - **Demonstration** : [Files](https://github.com/MechatronicBeing/programs-demos/)
   - **Main** : [Files](https://github.com/MechatronicBeing/programs-main/)

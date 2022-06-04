@@ -1,5 +1,5 @@
 Study, understand, design, build, develop, work, repair and live with Mechatronic Beings.  
-Includes free "public domain"-like licensed resources.
+Includes free "public domain" resources.
 
 ## Quick access
 - **Homepage** : [Pages](https://mechatronicbeing.github.io/), [Files](https://github.com/MechatronicBeing/MechatronicBeing.github.io/), [Issues](https://github.com/MechatronicBeing/MechatronicBeing.github.io/issues/), [Files](https://github.com/MechatronicBeing/MechatronicBeing.github.io/discussions/)

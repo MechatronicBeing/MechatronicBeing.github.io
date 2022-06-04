@@ -53,7 +53,7 @@ Includes free content, under "public domain" or similar.
 ## Warnings
 - **Work in progress** 
   - made by one person
-  - requires a lot of work : search for public resources, write and format texts, check the contents and licenses, organize files and folders, publish online... 
+  - requires a lot of work : search for public resources, write texts, check contents and licenses, organize files and folders, publish online... 
 - requires a LOT of time, patience and activities like learning, evaluation, training, working, etc.
 - depends a LOT on external stimuli : educational, professional, medical/technical, contacts, cultural, etc.
 - depends a LOT on the materials and software used, and the teaching approach

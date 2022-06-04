@@ -33,7 +33,7 @@ Includes free "public domain"-like licensed resources.
   - neuroscience
 
 ## How to start ?
-1. [read the documentation](https://mechatronicbeing.github.io/documentation/)
+1. [read the documentation](https://mechatronicbeing.github.io/docs/)
 2. [try the demos](https://github.com/MechatronicBeing/programs-demos/)
 3. [build your own](https://github.com/MechatronicBeing/programs-main/)
 4. [get the resources](https://mechatronicbeing.github.io/resources/)

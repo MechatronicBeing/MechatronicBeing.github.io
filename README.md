@@ -1,5 +1,5 @@
 Study, understand, design, build, develop, work, repair and live with Mechatronic Beings.  
-Includes free content, under "public domain" or equivalent.
+Includes free content, under "public domain" or similar.
 
 ## Quick access
 - **Homepage** : [Pages](https://mechatronicbeing.github.io/), [Files](https://github.com/MechatronicBeing/MechatronicBeing.github.io/), [Issues](https://github.com/MechatronicBeing/MechatronicBeing.github.io/issues/), [Files](https://github.com/MechatronicBeing/MechatronicBeing.github.io/discussions/)
@@ -61,7 +61,7 @@ Includes free content, under "public domain" or equivalent.
 
 ## Licenses
 - **Main content** : [Creative Commons CC0 Public Domain Dedication](LICENSE) *(unless otherwise stated)*
-- **Other content, data and media** use "public domain"-like licenses, among :
+- **Other content, data and media** use "public domain" or similar licenses, among :
   - a Public Domain dedication 
   - the [Creative Commons CC0 Public Domain Dedication](LICENSE)
   - the Unlicense

@@ -20,8 +20,8 @@ Includes free content, under "public domain" or similar.
   - counterexamples : inert or "brainless" objects
     - materials (wooden, metal, water, gas...)
     - parts of an organism (limbs, torso...)
-- Mechatronic Being : machine with a s
-  - an artificial copy of beings
+- Mechatronic Being : a human machine, moving or not, with an intelligence 
+  - reproduce the body and/or mind of living beings
   - counterparts : Biological Beings (humans, animals...)
 
 ## Benefits

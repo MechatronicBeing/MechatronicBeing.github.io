@@ -1,9 +1,11 @@
 Study, understand, design, build, develop, work, repair and live with Mechatronic Beings.  
-Includes free "public domain"-like licensed resources.
+Includes free "public domain" resources.
 
 ## Quick access
 - **Homepage** : [Pages](https://mechatronicbeing.github.io/), [Files](https://github.com/MechatronicBeing/MechatronicBeing.github.io/), [Issues](https://github.com/MechatronicBeing/MechatronicBeing.github.io/issues/), [Files](https://github.com/MechatronicBeing/MechatronicBeing.github.io/discussions/)
-- **Documentation** : [Pages](https://mechatronicbeing.github.io/documentation/), [Files](https://github.com/MechatronicBeing/documentation/), [Discussions](https://github.com/MechatronicBeing/documentation/discussions/)
+- **Documentation** : [Pages](https://mechatronicbeing.github.io/docs/), [Files](https://github.com/MechatronicBeing/docs/), [Discussions](https://github.com/MechatronicBeing/docs/discussions/)
+  - [English](https://mechatronicbeing.github.io/docs-en/)
+  - [Française](https://mechatronicbeing.github.io/docs-fr/)
 - **Programs** :
   - **Demonstration** : [Files](https://github.com/MechatronicBeing/programs-demos/)
   - **Main** : [Files](https://github.com/MechatronicBeing/programs-main/)
@@ -18,8 +20,8 @@ Includes free "public domain"-like licensed resources.
   - counterexamples : inert or "brainless" objects
     - materials (wooden, metal, water, gas...)
     - parts of an organism (limbs, torso...)
-- Mechatronic Being : machine with a s
-  - an artificial copy of beings
+- Mechatronic Being : a human machine, moving or not, with an intelligence 
+  - reproduce the body and/or mind of living beings
   - counterparts : Biological Beings (humans, animals...)
 
 ## Benefits
@@ -31,7 +33,7 @@ Includes free "public domain"-like licensed resources.
   - neuroscience
 
 ## How to start ?
-1. [read the documentation](https://mechatronicbeing.github.io/documentation/)
+1. [read the documentation](https://mechatronicbeing.github.io/docs/)
 2. [try the demos](https://github.com/MechatronicBeing/programs-demos/)
 3. [build your own](https://github.com/MechatronicBeing/programs-main/)
 4. [get the resources](https://mechatronicbeing.github.io/resources/)
@@ -51,7 +53,7 @@ Includes free "public domain"-like licensed resources.
 ## Warnings
 - **Work in progress** 
   - made by one person
-  - requires a lot of work : search for public resources, write and format texts, check the contents and licenses, organize files and folders, publish online... 
+  - requires a lot of work : search for public resources, write texts, check contents and licenses, organize files and folders, publish online... 
 - requires a LOT of time, patience and activities like learning, evaluation, training, working, etc.
 - depends a LOT on external stimuli : educational, professional, medical/technical, contacts, cultural, etc.
 - depends a LOT on the materials and software used, and the teaching approach
@@ -59,8 +61,13 @@ Includes free "public domain"-like licensed resources.
 
 ## Licenses
 - **Main content** : [Creative Commons CC0 Public Domain Dedication](LICENSE) *(unless otherwise stated)*
+<<<<<<< HEAD
 - **Other content, data and media** use "public domain"-like licenses, among :
   - a [Public Domain dedication](licensing\public_domain.md)
+=======
+- **Other content, data and media** use "public domain" or similar licenses, among :
+  - a Public Domain dedication 
+>>>>>>> e545458ef7b4da0437acb58e0753961ad885e884
   - the [Creative Commons CC0 Public Domain Dedication](LICENSE)
   - the Unlicense
   - the BSD Zero Clause License

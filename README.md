@@ -60,7 +60,7 @@ Includes free "public domain"-like licensed resources.
 ## Licenses
 - **Main content** : [Creative Commons CC0 Public Domain Dedication](LICENSE) *(unless otherwise stated)*
 - **Other content, data and media** use "public domain"-like licenses, among :
-  - a Public Domain dedication 
+  - a [Public Domain dedication](licensing\public_domain.md)
   - the [Creative Commons CC0 Public Domain Dedication](LICENSE)
   - the Unlicense
   - the BSD Zero Clause License

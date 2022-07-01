@@ -61,13 +61,8 @@ Includes free "public domain" resources.
 
 ## Licenses
 - **Main content** : [Creative Commons CC0 Public Domain Dedication](LICENSE) *(unless otherwise stated)*
-<<<<<<< HEAD
 - **Other content, data and media** use "public domain"-like licenses, among :
   - a [Public Domain dedication](licensing\public_domain.md)
-=======
-- **Other content, data and media** use "public domain" or similar licenses, among :
-  - a Public Domain dedication 
->>>>>>> e545458ef7b4da0437acb58e0753961ad885e884
   - the [Creative Commons CC0 Public Domain Dedication](LICENSE)
   - the Unlicense
   - the BSD Zero Clause License

@@ -57,4 +57,4 @@ By definition, a software license assert some form of copyright and therefore **
 * [WTFPL (Do What the Fuck You Want To Public License)](https://en.wikipedia.org/wiki/WTFPL#Version_2) - Informal license that implies total freedom of use. Also cannot be considered Public Domain compatible as it includes copyright ownership.
 
 
-This https://gist.github.com/ww9/4c4481fb7b55186960a34266078c88b1 and all public gists in https://gist.github.com/ww9 are Public Domain. Do whatever you want with it including, no need to credit me.
+* This document (from https://gist.github.com/ww9/4c4481fb7b55186960a34266078c88b1) is Public Domain. Do whatever you want with it including, no need to credit the author. *
